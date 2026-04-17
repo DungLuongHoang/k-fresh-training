@@ -4,7 +4,7 @@
 
 ## Preconditions
 - User is logged in.
-- Cart has exactly 1 item.
+- Cart has >= 1 item.
 - User is on the Checkout page.
 - "Flat Shipping Rate" is selected.
 
